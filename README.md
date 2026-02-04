@@ -13,7 +13,7 @@ Me convida para um café!
 
 ---
 
-#Tecnologias e Habilidades
+# Tecnologias e Habilidades
 
 Python (Pandas) para análise e manipulação de dados
 
