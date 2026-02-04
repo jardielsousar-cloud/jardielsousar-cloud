@@ -1,23 +1,26 @@
 # Sobre mim
 
-Oi, meu nome é Jardiel!
+Oi, meu nome é Jardiel.
 
 Sou artista visual e estou em transição de carreira para a área de dados.
 
-Sempre gostei de ensinar, e acho que servir ao próximo é também uma forma de se conectar com a gente.
-Sou obcecado por aprender, sintetizar ideias e compartilhar conhecimento.
+Sempre gostei de ensinar. Acredito que servir ao outro também é uma forma de se conectar consigo mesmo.
+Sou movido pela curiosidade: gosto de aprender, sintetizar ideias e compartilhar conhecimento de forma clara e acessível.
 
-Aberto à oportunidades de trabalho e colaboração em projetos independentes. 
+Estou aberto a oportunidades de trabalho e colaborações em projetos independentes.
 
 Hit me up :)
 ---
 
-## Tecnologias
+#Tecnologias e Habilidades
 
-- Python com Pandas 
-- SQL  
-- Inteligência Artificial e Prompt Engineer
-- Inglês avançado
+Python (Pandas) para análise e manipulação de dados
+
+SQL para consulta, organização e exploração de bases de dados
+
+Inteligência Artificial e Prompt Engineering aplicados à resolução de problemas reais
+
+Inglês avançado 
 
 ---
 
