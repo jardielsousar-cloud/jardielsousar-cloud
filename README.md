@@ -9,7 +9,8 @@ Sou movido pela curiosidade: gosto de aprender, sintetizar ideias e compartilhar
 
 Estou aberto a oportunidades de trabalho e colaborações em projetos independentes.
 
-Hit me up :)
+Hit me up! 
+
 ---
 
 #Tecnologias e Habilidades
