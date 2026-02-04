@@ -27,6 +27,6 @@ Inglês avançado
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/jardiel-sousa-a125a5389/
+- Linkedin: https://www.linkedin.com/in/jardiel-sousa-a125a5389/
 - YouTube: https://www.youtube.com/@jardielsousar
 - Instagram: https://www.instagram.com/rinite.atacada/
