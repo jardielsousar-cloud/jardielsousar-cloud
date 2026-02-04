@@ -1,4 +1,7 @@
 # Jardiel Sousa Rodrigues
+Banco de Dados | Python & SQL | Suporte Técnico
+
+---
 
 # Sobre mim
 
